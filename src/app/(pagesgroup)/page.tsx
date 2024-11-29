@@ -1,5 +1,6 @@
 import React from 'react'
-import Home from './(pagesgroup)/home/page';
+import Home from './home/page';
+
 
 const Main = () => {
   return (
